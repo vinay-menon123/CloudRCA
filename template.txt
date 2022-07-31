@@ -1,0 +1,11 @@
+0.0 START RequestId Version LATEST
+0.0 INFO <*>
+0.0 INFO PARSED_MESSAGE_DETAILS gateway_id component_id alarmType timestamp4
+0.0 REPORT RequestId Duration <*> ms Billed Duration <*> ms Memory Size 512 MB Max Memory Used <*> MB
+0.0 INFO PARSED_MESSAGE_DETAILS gateway_id <*> component_id alarmType timestamp
+0.0 INFO EXISTING_REDIS_VALUES ALARM_TYPE <*> IS_ALARM_CLEARED <*>
+0.0 INFO <*> Type Object added to queue object Object
+0.0 INFO NEW_ALARM_FOR_COMPONENT Type Object added to queue compID alarmType <*> status 1 universalTime <*>
+0.0 INFO EXISTING_REDIS_VALUES ALARM_TYPE CE IS_ALARM_CLEARED
+0.0 REPORT RequestId Duration 177.61 ms Billed Duration 178 ms Memory Size 512 MB Max Memory Used 95 MB Init Duration 649.01 ms
+0.0 INFO HEALTHY_COMPONENT0.0 START RequestId Version LATEST
